@@ -20,7 +20,7 @@ I’m currently a student at 42, where I’ve taken on a variety of challenging 
 - 🐚 **[minishell](https://github.com/mdomnik/minishell)** – A minimal Unix shell implementation, supporting pipes, redirections, and built-in commands.  
 - 🔀 **[push_swap](https://github.com/mdomnik/push_swap)** – An efficient stack-based sorting algorithm challenge with a strong focus on optimization.  
 - 🌐 **[webserv](https://github.com/mdomnik/webserv)** – A lightweight HTTP server written in C++98, built from scratch to handle requests, responses, and CGI.  
-- 🖼️ **[ImageTo3mfTopograph](https://github.com/mdomnik/ImageTo3mfTopograph)** – A tool that converts images into multi-color, layered **3MF models** for 3D printing.  
+- 🖼️ **[ImageColorQuantizer](https://github.com/mdomnik/ImageColorQuantizer)** – A tool written to quantize an image into a reduced color palette using K-Means clustering.
 - ✍️ **[Signature Generator](https://github.com/mdomnik/signature-generator)** – An internal tool for generating user signatures in bulk  
 
 ---
