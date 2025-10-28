@@ -21,7 +21,7 @@ I’m currently a student at 42, where I’ve taken on a variety of challenging 
 - 🔀 **[push_swap](https://github.com/mdomnik/push_swap)** – An efficient stack-based sorting algorithm challenge with a strong focus on optimization.  
 - 🌐 **[webserv](https://github.com/mdomnik/webserv)** – A lightweight HTTP server written in C++98, built from scratch to handle requests, responses, and CGI.  
 - 🖼️ **[ImageColorQuantizer](https://github.com/mdomnik/ImageColorQuantizer)** – A tool written to quantize an image into a reduced color palette using K-Means clustering.
-- ✍️ **[Signature Generator](https://github.com/mdomnik/signature-generator)** – An internal tool for generating user signatures in bulk  
+- ✍️ **[Signature Generator](https://github.com/mdomnik/SignatureGenerator)** – An internal tool for generating user signatures in bulk  
 
 ---
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdomnik&layout=compact&theme=tokyonight)  
